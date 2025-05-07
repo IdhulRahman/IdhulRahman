@@ -8,9 +8,9 @@
 
 ## <div align="center">🚀 About Me</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IdhulRahman&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/IdhulRahman/count.svg?"  />
+</div>
 
 ```python
 class IdhulRahman:
