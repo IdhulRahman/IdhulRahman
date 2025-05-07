@@ -3,9 +3,6 @@
 <div align="center">
 <<<<<<< HEAD
   <img src="img\github-header-image.png" alt="Banner Image" width="100%" />
-=======
-  <img src=".github/github-header-image.png" alt="Banner Image" width="100%" />
->>>>>>> 50d29b584d277d7eff7da49257f440edd6cc6f75
 </div>
 
 <br/>
