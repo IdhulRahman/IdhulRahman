@@ -112,17 +112,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/snake.svg" alt="Snake animation"/>
 </div>
 <div align="center">
-  <!-- PacMan Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/github-contribution-grid-snake.svg">
-  </picture>
-  <!-- Untuk Pacman animation, pastikan file dan workflow sudah terkonfigurasi -->
-  <a href="https://github.com/Platane/snk">
-    <img src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
-  </a>
-</div>
 
 ---
 
