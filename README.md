@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Idhul Rahman | Cybersecurity & AI Enthusiast</div>
 
 <div align="center">
-  <img src="https://your-banner-image-url-here.jpg" alt="Banner Image" width="100%" />
+  <img src=".github/github-header-image.png" alt="Banner Image" width="100%" />
 </div>
 
 <br/>
