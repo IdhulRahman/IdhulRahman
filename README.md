@@ -111,12 +111,12 @@ me.say_hi()
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/snake.svg" alt="Snake animation"/>
+  <img src=".github/snake.yml" alt="Snake animation"/>
 </div>
 
 <div align="center">
   
-  ![Pacman Contribution Graph](https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/pacman-contribution-graph.svg)
+  ![Pacman Contribution Graph](.github/pacman.yml)
   
 </div>
 
