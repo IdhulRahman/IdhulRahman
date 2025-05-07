@@ -1,11 +1,7 @@
 # <div align="center">👨‍💻 Idhul Rahman | Cybersecurity & AI Enthusiast</div>
 
 <div align="center">
-<<<<<<< HEAD
   <img src="img\github-header-image.png" alt="Banner Image" width="100%" />
-=======
-  <img src=".github/github-header-image.png" alt="Banner Image" width="100%" />
->>>>>>> 50d29b584d277d7eff7da49257f440edd6cc6f75
 </div>
 
 <br/>
@@ -115,20 +111,12 @@ me.say_hi()
 <br/>
 
 <div align="center">
-<<<<<<< HEAD
   <img src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/snake.svg" alt="Snake animation"/>
-=======
-  <img src=".github/snake.yml" alt="Snake animation"/>
->>>>>>> 50d29b584d277d7eff7da49257f440edd6cc6f75
 </div>
 
 <div align="center">
   
-<<<<<<< HEAD
   ![Pacman Contribution Graph](https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/pacman-contribution-graph.svg)
-=======
-  ![Pacman Contribution Graph](.github/pacman.yml)
->>>>>>> 50d29b584d277d7eff7da49257f440edd6cc6f75
   
 </div>
 
@@ -136,8 +124,4 @@ me.say_hi()
 
 <div align="center">
   <i>"The best way to predict the future is to create it."</i>
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> 50d29b584d277d7eff7da49257f440edd6cc6f75
