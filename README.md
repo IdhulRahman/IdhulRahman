@@ -115,12 +115,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/pacman-contribution-graph.svg">
@@ -128,3 +122,10 @@ me.say_hi()
 </picture>
 
 ---
+
+<div align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</div>
+
+---
+
