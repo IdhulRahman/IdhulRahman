@@ -89,7 +89,7 @@ me.say_hi()
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IdhulRahman&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IdhulRahman&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <br/>
