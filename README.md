@@ -108,10 +108,6 @@ me.say_hi()
   </a>
 </div>
 <br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/snake.svg" alt="snake gif" />
-</div>
-<div align="center">
 
 ---
 
