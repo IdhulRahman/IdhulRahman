@@ -109,7 +109,7 @@ me.say_hi()
 </div>
 <br/>
 <div align="center">
-  ![snake gif](https://github.com/IdhulRahman/IdhulRahman/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/IdhulRahman/IdhulRahman/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 <div align="center">
 
